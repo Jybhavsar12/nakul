@@ -212,8 +212,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/Jybhavsar12/steganography-tool/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Jybhavsar12/steganography-tool/discussions)
 - **Email**: jyotbhavsar2003@gmail.com
 
 ## 🔮 Future Enhancements
@@ -231,6 +229,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for digital privacy and security**
 
-[⭐ Star this repo](https://github.com/Jybhavsar12/steganography-tool) • [🐛 Report Bug](https://github.com/Jybhavsar12/steganography-tool/issues) • [💡 Request Feature](https://github.com/Jybhavsar12/steganography-tool/issues)
 
 </div>
