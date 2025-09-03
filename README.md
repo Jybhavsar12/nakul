@@ -6,7 +6,8 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-A sophisticated steganography tool that allows you to hide secret messages within BMP images using LSB (Least Significant Bit) encoding. Features both a cyberpunk-themed web interface and command-line functionality.
+A sophisticated steganography tool that allows you to hide secret messages within BMP images using LSB (Least Significant Bit) encoding. Features both a cyberpunk-themed web interface and command-line functionality.![Uploading answer 2025-09-03 at 11.14.30 AM.jpg…]()
+
 
 ## ✨ Features
 
